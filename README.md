@@ -14,7 +14,7 @@ I currently cannot get the microphone to work! I tried a number of different dis
 ## 3. Connectivity
 ### 3.1 Bluetooth
 - `sudo systemctl enable bluetooth.service`
-- `sudo systemctl enable bluetooth.service`
+- `sudo systemctl start bluetooth.service`
 
 ## 4. i3 and CLI environment
 Followed my dotfiles: https://github.com/sorenmulli/dotfiles
