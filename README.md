@@ -11,6 +11,8 @@ Installed EndeavourOS with XFCE desktop environment, systemd-boot.
 ### 2.1 Microphone
 I currently cannot get the microphone to work! I tried a number of different distros and kernel versions but the internal microphone is always disconnected.
 
+EDIT: After new Linux update, this started working.
+
 ## 3. Connectivity
 ### 3.1 Bluetooth
 - `sudo systemctl enable bluetooth.service`
